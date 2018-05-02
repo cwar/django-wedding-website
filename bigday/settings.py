@@ -128,9 +128,9 @@ STATICFILES_DIRS = (
 )
 
 # the address your emails (save the dates/invites/etc.) will come from
-DEFAULT_WEDDING_FROM_EMAIL = 'You and Your Partner <cwarren13@gmail.com>'
+DEFAULT_WEDDING_FROM_EMAIL = 'Chris and Lela <chris.plus.lela@gmail.com>'
 # the default reply-to of your emails
-DEFAULT_WEDDING_REPLY_EMAIL = 'cwarren13@gmail.com'
+DEFAULT_WEDDING_REPLY_EMAIL = 'chris.plus.lela@gmail.com'
 
 # when sending test emails it will use this address
 DEFAULT_WEDDING_TEST_EMAIL = DEFAULT_WEDDING_FROM_EMAIL
